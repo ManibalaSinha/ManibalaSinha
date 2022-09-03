@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManibalaSinha
-- 👀 I’m interested in Software Testing
+- 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning, testing and executing some test cases
-- 💞️ I’m looking to collaborate on Software Testing
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 You can reach me at manibalasinha1@gmail.com
 
 <!---
