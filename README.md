@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManibalaSinha
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning, testing and executing some test cases
+- 🌱 I’m currently developing Android App
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 You can reach me at manibalasinha1@gmail.com
 
