@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManibalaSinha
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently developing Android App
+- 🌱 I’m currently developing Full Stack Application
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 You can reach me at manibalasinha1@gmail.com
 
