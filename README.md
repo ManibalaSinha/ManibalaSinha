@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Manibala Sinha
+#  Hi, I'm Manibala Sinha
 
-🎯 Frontend Developer | Full Stack Developer | Python Enthusiast  
-📍 Based in Vaughan, ON | Open to Remote Roles
+ Frontend Developer | Full Stack Developer | Python Enthusiast  
+ Based in Vaughan, ON | Open to Remote Roles
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
 🔹 Build interactive web apps using **React.js** and **Next.js**  
 🔹 Design REST APIs with **Node.js**, **Express**, and **MongoDB/PostgreSQL**  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
@@ -39,32 +39,32 @@
 
 ---
 
-## 📌 Pinned Projects
+##  Pinned Projects
 
-- [📘 Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
-- [📌 OOP Concepts in Python](https://github.com/ManibalaSinha/OOP-Concepts) – Object-oriented programming demos
-- [🧠 DSA Practice](https://github.com/ManibalaSinha/Python-DSA) – Algorithms and data structures
-- [🧮 Calculator with JS](https://github.com/ManibalaSinha/Calculator_JS) – A simple but clean JavaScript project
-
----
-
-## 🎯 Looking for...
-
-- 🧑‍💻 Remote Frontend / Full Stack Developer Roles
-- 🧑‍🏫 Mentoring, teaching, or content creation opportunities (Python / React)
+- [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
+- [ OOP Concepts in Python](https://github.com/ManibalaSinha/OOP-Concepts) – Object-oriented programming demos
+- [ DSA Practice](https://github.com/ManibalaSinha/Python-DSA) – Algorithms and data structures
+- [ Calculator with JS](https://github.com/ManibalaSinha/Calculator_JS) – A simple but clean JavaScript project
 
 ---
 
-## 📫 Connect with Me
+##  Looking for...
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manibala-sinha)
+-  Remote Frontend / Full Stack Developer Roles
+-  Mentoring, teaching, or content creation opportunities (Python / React)
+
+---
+
+##  Connect with Me
+
+-  [LinkedIn](https://www.linkedin.com/in/manibala-sinha)
 - https://www.youtube.com/playlist?list=PLuzticsr30cWWduY3HesN-0rxmUtq1WI0
-- 🌐 Portfolio Website https://devstations.blogspot.com/
-- ✉️ smanibala.it@gmail.com
+-  Portfolio Website https://devstations.blogspot.com/
+-  smanibala.it@gmail.com
 
 ---
 
-### 🧠 Fun Fact
+###  Fun Fact
 
 I love turning complex coding concepts into **bite-sized YouTube videos** and helping others learn!
 
