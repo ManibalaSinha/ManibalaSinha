@@ -43,8 +43,7 @@ Java
 ##  Pinned Projects
 
 - React web application fetches displays user data from the GitHub API, API integration, responsive UI, modern front-end https://github.com/ManibalaSinha/TaskManager https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit
-- Appointment Tracker React, JSX, CSS, Tailwind API: GitHub REST API, LocalStorage Deployment: Vercel https://github.com/ManibalaSinha/AppointmentTracker_FullStack
-- [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
+- Appointment Tracker React, JSX, CSS, Tailwind API: GitHub REST API, LocalStorage Deployment: Vercel https://github.com/ManibalaSinha/AppointmentTracker_FullStack https://vercel.com/manibala-sinhas-projects-273c5a77/react-pet-appointment
 - Full Stack Python React Auth Database (https://github.com/ManibalaSinha/devstations) https://devstations-5.onrender.com/
 - NodeExpress - REST API Backend https://github.com/ManibalaSinha/NodeExpress https://vercel.com/manibala-sinhas-projects-273c5a77/node-express-mio3 https://node-express-app-mdxf.onrender.com/
 - Django web application REST APIs, multi-page application, User authentication login, logout, Admin interface ready for data management, Integrated static/media handling, CRUD, REST API, Django REST Framework (DRF) https://github.com/ManibalaSinha/django
@@ -61,6 +60,7 @@ Java
 - Python Flask CRUD App Built Full Stack Web App with SQLite https://www.youtube.com/watch?v=6A-Et2R4lvM&list=PLuzticsr30cWWduY3HesN-0rxmUtq1WI0&index=5&t=26s
 - Flask REST API https://www.youtube.com/watch?v=vna41vlEmqg&list=PLuzticsr30cWWduY3HesN-0rxmUtq1WI0&index=15&t=2s
 - https://node-express-g524kcezh-manibala-sinhas-projects-273c5a77.vercel.app/
+- [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
 
 
 ---
