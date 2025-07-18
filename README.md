@@ -59,6 +59,7 @@ Java
 - payment processing module, built with [your tech stack], to facilitate secure transactions, card tokenization, and order management, Secure payment form with input validation, Integration with payment gateway (e.g., Stripe, PayPal, mock sandbox), Handles transaction flows: initiate, complete, success/failure, Logging of transactions and status responses for audit https://github.com/ManibalaSinha/Pay
 - Camera2 API Integration, Video Capture: Records video with manual control over focus, exposure, and white balance, Image Extraction: Converts recorded video into individual frames (images), Image Storage: Saves extracted images in a specified directory for further processing, Real-Time Preview https://github.com/ManibalaSinha/Camera2VideoImage
 - Python Flask CRUD App Built Full Stack Web App with SQLite https://www.youtube.com/watch?v=6A-Et2R4lvM&list=PLuzticsr30cWWduY3HesN-0rxmUtq1WI0&index=5&t=26s
+- Flask REST API https://www.youtube.com/watch?v=vna41vlEmqg&list=PLuzticsr30cWWduY3HesN-0rxmUtq1WI0&index=15&t=2s
 
 
 ---
@@ -81,5 +82,5 @@ Java
 
 ###  Fun Fact
 
-I love turning complex coding concepts into **bite-sized YouTube videos** and helping others learn!
+I love turning complex coding concepts into **bite-sized YouTube videos https://www.youtube.com/playlist?list=PLuzticsr30cWWduY3HesN-0rxmUtq1WI0 ** and helping others learn!
 
