@@ -42,6 +42,7 @@ Java
 
 ##  Pinned Projects
 
+- React web application fetches displays user data from the GitHub API, API integration, responsive UI, modern front-end https://github.com/ManibalaSinha/TaskManager
 - [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
 - [Full Stack Python React Auth Database] (https://github.com/ManibalaSinha/devstations)
 - NodeExpress - REST API Backend https://github.com/ManibalaSinha/NodeExpress
