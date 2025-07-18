@@ -45,7 +45,7 @@ Java
 - React web application fetches displays user data from the GitHub API, API integration, responsive UI, modern front-end https://github.com/ManibalaSinha/TaskManager
 - Appointment Tracker React, JSX, CSS, Tailwind API: GitHub REST API, LocalStorage Deployment: Vercel https://github.com/ManibalaSinha/AppointmentTracker_FullStack
 - [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
-- Full Stack Python React Auth Database (https://github.com/ManibalaSinha/devstations)
+- Full Stack Python React Auth Database (https://github.com/ManibalaSinha/devstations) https://devstations-5.onrender.com/
 - NodeExpress - REST API Backend https://github.com/ManibalaSinha/NodeExpress
 - Django web application REST APIs, multi-page application, User authentication login, logout, Admin interface ready for data management, Integrated static/media handling, CRUD, REST API, Django REST Framework (DRF) https://github.com/ManibalaSinha/django
 - Portfolio website Django, Bootstrap, blog entries, Home, About, Projects, Blog, Contact pages, Admin-managed content: add/edit projects and blog posts via Django Admin, Responsive design using Bootstrap 5, featured images and tags, Contact form that sends email   messages via SMTP https://github.com/ManibalaSinha/django_portfolio
