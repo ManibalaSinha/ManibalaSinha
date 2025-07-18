@@ -55,9 +55,7 @@ Java
 - Flask REST API CRUD database SQLite, SQLAlchemy ORM, and Marshmallow serialization https://github.com/ManibalaSinha/FlaskPython
 - Flask-RESTful web applications with Python https://github.com/ManibalaSinha/PythonFlask
 - Reactweb application fetches displays user data from the GitHub API, API integration, responsive UI, and modern front-end https://github.com/ManibalaSinha/ReactPetAppointment
-- [ OOP Concepts in Python](https://github.com/ManibalaSinha/OOP-Concepts) – Object-oriented programming demos
-- [ DSA Practice](https://github.com/ManibalaSinha/Python-DSA) – Algorithms and data structures
-- [ Calculator with JS](https://github.com/ManibalaSinha/Calculator_JS) – A simple but clean JavaScript project
+- user-friendly weather application JavaScript fetches and displays current weather information based on user input or geolocation,Search by city name or use your current location, Displays temperature, humidity, wind speed, and weather description, Dynamic weather icons, reflect real-time conditions, Responsive design, desktop and mobile, Easily extendable—add forecasts, background themes, or API sources https://github.com/ManibalaSinha/Wheather-App
 
 ---
 
