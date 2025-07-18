@@ -57,6 +57,7 @@ Java
 - Reactweb application fetches displays user data from the GitHub API, API integration, responsive UI, and modern front-end https://github.com/ManibalaSinha/ReactPetAppointment
 - user-friendly weather application JavaScript fetches and displays current weather information based on user input or geolocation,Search by city name or use your current location, Displays temperature, humidity, wind speed, and weather description, Dynamic weather icons, reflect real-time conditions, Responsive design, desktop and mobile, Easily extendable—add forecasts, background themes, or API sources https://github.com/ManibalaSinha/Wheather-App
 - payment processing module, built with [your tech stack], to facilitate secure transactions, card tokenization, and order management, Secure payment form with input validation, Integration with payment gateway (e.g., Stripe, PayPal, mock sandbox), Handles transaction flows: initiate, complete, success/failure, Logging of transactions and status responses for audit https://github.com/ManibalaSinha/Pay
+- Camera2 API Integration, Video Capture: Records video with manual control over focus, exposure, and white balance, Image Extraction: Converts recorded video into individual frames (images), Image Storage: Saves extracted images in a specified directory for further processing, Real-Time Preview https://github.com/ManibalaSinha/Camera2VideoImage
 
 
 ---
