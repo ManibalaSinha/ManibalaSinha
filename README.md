@@ -47,6 +47,7 @@ Java
 - [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
 - Full Stack Python React Auth Database (https://github.com/ManibalaSinha/devstations)
 - NodeExpress - REST API Backend https://github.com/ManibalaSinha/NodeExpress
+- Django web application REST APIs, multi-page application, User authentication login, logout, Admin interface ready for data management, Integrated static/media handling, CRUD, REST API, Django REST Framework (DRF) https://github.com/ManibalaSinha/django
 - Data Structures (`lists`, `dicts`, `tuples`, `sets`)
 - Object-Oriented Programming, Decorators, Generators, Iterators, File Handling, Pythonic Idioms, Error Handling, Exceptions, Web APIs, Requests https://github.com/ManibalaSinha/Python
 - Flask REST API CRUD database SQLite, SQLAlchemy ORM, and Marshmallow serialization https://github.com/ManibalaSinha/FlaskPython
