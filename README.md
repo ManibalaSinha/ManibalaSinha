@@ -42,7 +42,7 @@ Java
 
 ##  Pinned Projects
 
-- React web application fetches displays user data from the GitHub API, API integration, responsive UI, modern front-end https://github.com/ManibalaSinha/TaskManager
+- React web application fetches displays user data from the GitHub API, API integration, responsive UI, modern front-end https://github.com/ManibalaSinha/TaskManager https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit
 - Appointment Tracker React, JSX, CSS, Tailwind API: GitHub REST API, LocalStorage Deployment: Vercel https://github.com/ManibalaSinha/AppointmentTracker_FullStack
 - [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
 - Full Stack Python React Auth Database (https://github.com/ManibalaSinha/devstations) https://devstations-5.onrender.com/
