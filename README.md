@@ -44,6 +44,7 @@ Java
 
 - [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
 - [Full Stack Python React Auth Database] (https://github.com/ManibalaSinha/devstations)
+- NodeExpress - REST API Backend https://github.com/ManibalaSinha/NodeExpress
 - [ OOP Concepts in Python](https://github.com/ManibalaSinha/OOP-Concepts) – Object-oriented programming demos
 - [ DSA Practice](https://github.com/ManibalaSinha/Python-DSA) – Algorithms and data structures
 - [ Calculator with JS](https://github.com/ManibalaSinha/Calculator_JS) – A simple but clean JavaScript project
