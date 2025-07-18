@@ -49,7 +49,7 @@ Java
 - NodeExpress - REST API Backend https://github.com/ManibalaSinha/NodeExpress https://vercel.com/manibala-sinhas-projects-273c5a77/node-express-mio3 https://node-express-app-mdxf.onrender.com/
 - Django web application REST APIs, multi-page application, User authentication login, logout, Admin interface ready for data management, Integrated static/media handling, CRUD, REST API, Django REST Framework (DRF) https://github.com/ManibalaSinha/django
 - Portfolio website Django, Bootstrap, blog entries, Home, About, Projects, Blog, Contact pages, Admin-managed content: add/edit projects and blog posts via Django Admin, Responsive design using Bootstrap 5, featured images and tags, Contact form that sends email   messages via SMTP https://github.com/ManibalaSinha/django_portfolio
-- WebRTC-based video calling application, JavaScript, peer-to-peer video chat, Real-time video/audio streaming between peers, Chat support, Simple UI with “Start Call” and “Join Call” functionality, modern browsers without plugins https://github.com/ManibalaSinha/vedio-call
+- WebRTC-based video calling application, JavaScript, peer-to-peer video chat, Real-time video/audio streaming between peers, Chat support, Simple UI with “Start Call” and “Join Call” functionality, modern browsers without plugins https://github.com/ManibalaSinha/vedio-call https://vercel.com/manibala-sinhas-projects-273c5a77/vedio-call
 
 - Data Structures (`lists`, `dicts`, `tuples`, `sets`), Object-Oriented Programming, Decorators, Generators, Iterators, File Handling, Pythonic Idioms, Error Handling, Exceptions, Web APIs, Requests https://github.com/ManibalaSinha/Python
 - Flask REST API CRUD database SQLite, SQLAlchemy ORM, and Marshmallow serialization https://github.com/ManibalaSinha/FlaskPython
