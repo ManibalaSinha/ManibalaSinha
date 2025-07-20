@@ -42,7 +42,7 @@ Java
 
 ##  Pinned Projects
 
-- Job Python-based automation tool that scrapes job listings from selected job boards, Scrape jobs by keyword, location, Filter by posting date, Email job listings directly to your inbox, Avoids duplicates by saving job IDs, Can be scheduled to run daily  https://github.com/ManibalaSinha/job-scraper-notifier
+- Python-based automation tool that scrapes job listings from selected job boards, Scrape jobs by keyword, location, Filter by posting date, Email job listings directly to your inbox, Avoids duplicates by saving job IDs, Can be scheduled to run daily  https://github.com/ManibalaSinha/job-scraper-notifier
 - React web application fetches displays user data from the GitHub API, API integration, responsive UI, modern front-end https://github.com/ManibalaSinha/TaskManager https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit
 - Appointment Tracker React, JSX, CSS, Tailwind API: GitHub REST API, LocalStorage Deployment: Vercel https://github.com/ManibalaSinha/AppointmentTracker_FullStack https://vercel.com/manibala-sinhas-projects-273c5a77/react-pet-appointment
 - Full Stack Python React Auth Database (https://github.com/ManibalaSinha/devstations) https://devstations-5.onrender.com/
