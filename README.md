@@ -42,6 +42,7 @@ Java
 
 ##  Pinned Projects
 
+-Job Scraper Notifier Python https://github.com/ManibalaSinha/job-scraper-notifier
 - React web application fetches displays user data from the GitHub API, API integration, responsive UI, modern front-end https://github.com/ManibalaSinha/TaskManager https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit
 - Appointment Tracker React, JSX, CSS, Tailwind API: GitHub REST API, LocalStorage Deployment: Vercel https://github.com/ManibalaSinha/AppointmentTracker_FullStack https://vercel.com/manibala-sinhas-projects-273c5a77/react-pet-appointment
 - Full Stack Python React Auth Database (https://github.com/ManibalaSinha/devstations) https://devstations-5.onrender.com/
