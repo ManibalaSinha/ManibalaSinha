@@ -26,7 +26,6 @@
 
 ##  Featured Projects
 
-* **[ShapeLearn\_Flutter](https://manibalasinha.github.io/ShapeLearn_Flutter/)** – Toddler-friendly shapes & colors learning app
 * **[AI Caption API](https://ai-api-6.onrender.com/caption)** – Summarizes text & images using AI models
 * **[Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)** – Python automation to scrape, filter & email job listings
 * **[Task Manager](https://github.com/ManibalaSinha/TaskManager)** – React app with GitHub API integration ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit))
@@ -34,6 +33,7 @@
 * **[DevStations](https://github.com/ManibalaSinha/devstations)** – Full-stack Python + React Auth + DB ([Live Demo](https://devstations-5.onrender.com/))
 * **[NodeExpress API](https://github.com/ManibalaSinha/NodeExpress)** – REST API backend ([Live Demo](https://node-express-app-mdxf.onrender.com/))
 * **[Django Portfolio](https://github.com/ManibalaSinha/django_portfolio)** – CMS-enabled portfolio site with blog
+* **[ShapeLearn\_Flutter](https://manibalasinha.github.io/ShapeLearn_Flutter/)** – Toddler-friendly shapes & colors learning app
 
 ---
 
