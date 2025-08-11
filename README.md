@@ -26,7 +26,7 @@
 
 ##  Featured Projects
 
-* **[AI Caption API](https://ai-api-6.onrender.com/caption)** – Summarizes text & images using AI models
+* **[AI Caption API](https://ai-api-6.onrender.com/caption)** – Summarizes text & images using AI models Live: https://ai-api-6.onrender.com/caption
 * **[Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)** – Python automation to scrape, filter & email job listings
 * **[Task Manager](https://github.com/ManibalaSinha/TaskManager)** – React app with GitHub API integration ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit))
 * **[Appointment Tracker](https://github.com/ManibalaSinha/AppointmentTracker_FullStack)** – Full-stack pet appointment booking ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-pet-appointment))
