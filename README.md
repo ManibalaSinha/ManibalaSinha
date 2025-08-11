@@ -30,7 +30,7 @@
 * **[Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)** – Python automation to scrape, filter & email job listings
 * **[Task Manager](https://github.com/ManibalaSinha/TaskManager)** – React app with GitHub API integration ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit))
 * **[Appointment Tracker](https://github.com/ManibalaSinha/AppointmentTracker_FullStack)** – Full-stack pet appointment booking ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-pet-appointment))
-* **[DevStations](https://github.com/ManibalaSinha/devstations)** – Full-stack Python + React Auth + DB ([Live Demo](https://devstations-5.onrender.com/))
+* **[DevStations](https://github.com/ManibalaSinha/devstations)** – Full-stack Python + React Auth + DB ([Live Demo](https://devstations-5.onrender.com/)) https://manibalasinha.github.io/devstations/ 
 * **[NodeExpress API](https://github.com/ManibalaSinha/NodeExpress)** – REST API backend ([Live Demo](https://node-express-app-mdxf.onrender.com/))
 * **[Django Portfolio](https://github.com/ManibalaSinha/django_portfolio)** – CMS-enabled portfolio site with blog
 * **[ShapeLearn\_Flutter](https://manibalasinha.github.io/ShapeLearn_Flutter/)** – Toddler-friendly shapes & colors learning app
