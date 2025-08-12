@@ -1,26 +1,52 @@
-# Hi, I'm **Manibala Sinha**
+# Hi, I'm Manibala 
 
-**Frontend Developer | Full Stack Developer | Back End Developer | Python Enthusiast**
-📍 Vaughan, ON | 🌍 Open to Remote Roles
-
----
-
-## What I Do
-
-* Build **interactive, responsive web apps** with **React.js** & **Next.js**
-* Develop **RESTful APIs** using **Node.js**, **Express**, and **MongoDB/PostgreSQL**
-* Solve coding challenges in **Python** & **JavaScript/TypeScript**
-* Deploy projects on **Vercel**, **Render**, **Netlify**, and **GitHub Pages**
+ **Full Stack Developer** | React, Node.js, Python, PostgreSQL  
+ 6+ years experience delivering scalable web & mobile applications  
+ [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
 
 ---
 
 ##  Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS, Flutter
+- **Backend:** Node.js, Express, Python, Flask, Django
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, Docker, GCP, AWS, REST API, GraphQL
 
-**Frontend:** React.js · Next.js · Tailwind CSS
-**Backend:** Node.js · Express.js · MongoDB · PostgreSQL
-**Languages:** JavaScript · TypeScript · Python · Dart (Flutter)
-**Frameworks:** Django · FastAPI · Flask
-**Tools & DevOps:** Git · Docker · Postman · npm · Vercel/Render/Netlify
+---
+
+##  Featured Projects
+
+### [Task Manager](https://github.com/ManibalaSinha/TaskManager)
+Full CRUD task app with authentication and responsive UI.  
+**Tech:** React, Node.js, Express, MongoDB  
+ [Live Demo](https://taskmanager-demo-link.com)
+
+---
+
+### [Django Portfolio](https://github.com/ManibalaSinha/django_portfolio)
+Personal portfolio site built with Django.  
+**Tech:** Python, Django, HTML/CSS
+
+---
+
+### [Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)
+Automated job scraper sending email alerts.  
+**Tech:** Python, BeautifulSoup, SMTP
+
+---
+
+### [DevStations](https://github.com/ManibalaSinha/devstations)
+Collaboration platform for developers.  
+**Tech:** MERN Stack
+
+---
+
+##  Let's Connect
+[LinkedIn](https://linkedin.com/in/your-link) • [Email](mailto:youremail@example.com) • [Portfolio](https://your-portfolio-link.com)
+
+---
+ *Pinned projects are my proudest work — check them out above!*
+
 
 ---
 
