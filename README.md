@@ -41,11 +41,8 @@ Collaboration platform for developers.
 
 ---
 
-##  Let's Connect
+## Let's Connect
 [LinkedIn](https://linkedin.com/in/your-link) • [Email](mailto:youremail@example.com) • [Portfolio](https://your-portfolio-link.com)
-
----
- *Pinned projects are my proudest work — check them out above!*
 
 
 ---
