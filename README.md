@@ -39,16 +39,6 @@ Automated job scraper sending email alerts.
 Collaboration platform for developers.  
 **Tech:** MERN Stack
 
----
-
-## Let's Connect
-[LinkedIn](https://linkedin.com/in/your-link) • [Email](mailto:youremail@example.com) • [Portfolio](https://your-portfolio-link.com)
-
-
----
-
-##  Featured Projects
-
 * **[AI Caption API](https://ai-api-6.onrender.com/caption)** – Summarizes text & images using AI models Live: https://ai-api-6.onrender.com/caption
 * **[Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)** – Python automation to scrape, filter & email job listings
 * **[Task Manager](https://github.com/ManibalaSinha/TaskManager)** – React app with GitHub API integration ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit))
@@ -57,8 +47,11 @@ Collaboration platform for developers.
 * **[NodeExpress API](https://github.com/ManibalaSinha/NodeExpress)** – REST API backend ([Live Demo](https://node-express-app-mdxf.onrender.com/))
 * **[Django Portfolio](https://github.com/ManibalaSinha/django_portfolio)** – CMS-enabled portfolio site with blog
 * **[ShapeLearn\_Flutter](https://manibalasinha.github.io/ShapeLearn_Flutter/)** – Toddler-friendly shapes & colors learning app https://manibalasinha.github.io/ShapeLearn_Flutter/
-* https://manibalasinha.github.io/SankeGame_Flutter/
+* **[Snake Game\_Flutter]https://manibalasinha.github.io/SankeGame_Flutter/
 
+---
+## Let's Connect
+[LinkedIn](https://linkedin.com/in/your-link) • [Email](mailto:youremail@example.com) • [Portfolio](https://your-portfolio-link.com)
 ---
 
 ##  Currently Looking For
@@ -76,11 +69,6 @@ Collaboration platform for developers.
 *  [smanibala.it@gmail.com](mailto:smanibala.it@gmail.com)
 
 ---
-
-##  Fun Fact
-
-I turn complex coding concepts into **bite-sized YouTube tutorials** that make learning fun and practical!
-
 
 ##  Pinned Projects
 - https://ai-api-6.onrender.com/caption Summarizing Texts and Images
@@ -105,3 +93,7 @@ I turn complex coding concepts into **bite-sized YouTube tutorials** that make l
 -  https://manibalasinha.github.io/ShapeLearn_Flutter/ Learning Shgapes and Colors for Toddlers
 - [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
 
+
+##  Fun Fact
+
+I turn complex coding concepts into **bite-sized YouTube tutorials** that make learning fun and practical!
