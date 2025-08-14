@@ -1,14 +1,14 @@
 # Hi, I'm Manibala 
 
- **Full Stack Developer** | React, Node.js, Python, PostgreSQL  
+ **Full Stack Developer** | React, Node.js, Python, PostgreSQL, AWS  
  6+ years experience delivering scalable web & mobile applications  
  [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
 
 ---
 
 ##  Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS, Flutter
-- **Backend:** Node.js, Express, Python, Flask, Django
+- **Frontend:** React, Javascript, Typescript, Next.js, Tailwind CSS, Bootstrap, Redux, Flutter
+- **Backend:** Node.js, Express, Python, Flask, Django,REST APIs, JWT, OAuth2
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, Docker, GCP, AWS, REST API, GraphQL
 
@@ -47,7 +47,7 @@ Collaboration platform for developers.
 * **[NodeExpress API](https://github.com/ManibalaSinha/NodeExpress)** – REST API backend ([Live Demo](https://node-express-app-mdxf.onrender.com/))
 * **[Django Portfolio](https://github.com/ManibalaSinha/django_portfolio)** – CMS-enabled portfolio site with blog
 * **[ShapeLearn\_Flutter](https://manibalasinha.github.io/ShapeLearn_Flutter/)** – Toddler-friendly shapes & colors learning app https://manibalasinha.github.io/ShapeLearn_Flutter/
-* **[Snake Game\_Flutter]https://manibalasinha.github.io/SankeGame_Flutter/
+* **[SnakeGame\_Flutter](https://manibalasinha.github.io/SnakeGame_Flutter/)** – Toddler-friendly snake eat food game app https://manibalasinha.github.io/SnakeGame_Flutter/
 
 ---
 ## Let's Connect
