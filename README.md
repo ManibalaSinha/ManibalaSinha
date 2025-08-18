@@ -15,7 +15,10 @@
 ---
 
 ##  Featured Projects
-
+### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
+built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
+### [Ruby_AI_JS_QA](https://github.com/ManibalaSinha/Ruby_AI_JS_QA)
+Ruby_AI_JS_QA is a full-stack application designed to facilitate question-answering (QA) workflows using AI models. The project integrates Ruby on Rails for the backend, JavaScript for the frontend, and leverages AI services to process and respond to user queries.
 ### [Task Manager](https://github.com/ManibalaSinha/TaskManager)
 Full CRUD task app with authentication and responsive UI.  
 **Tech:** React, Node.js, Express, MongoDB  
