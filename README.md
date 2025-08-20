@@ -17,6 +17,11 @@
 ##  Featured Projects
 ### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
 built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
+
+### [AI Caption API]()
+Summarizes text & images using AI models
+Live: https://ai-api-6.onrender.com/caption
+
 ### [Ruby_AI_JS_QA](https://github.com/ManibalaSinha/Ruby_AI_JS_QA)
 
 Ruby_AI_JS_QA is a full-stack application designed to facilitate question-answering (QA) workflows using AI models. The project integrates Ruby on Rails for the backend, JavaScript for the frontend, and leverages AI services to process and respond to user queries.
@@ -45,7 +50,7 @@ Automated job scraper sending email alerts.
 Collaboration platform for developers.  
 **Tech:** MERN Stack
 
-* **[AI Caption API](https://ai-api-6.onrender.com/caption)** – Summarizes text & images using AI models Live: https://ai-api-6.onrender.com/caption
+* **[AI Caption API](https://ai-api-6.onrender.com/caption)** – Summarizes text & images using AI models
 * **[Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)** – Python automation to scrape, filter & email job listings
 * **[Task Manager](https://github.com/ManibalaSinha/TaskManager)** – React app with GitHub API integration ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-submit))
 * **[Appointment Tracker](https://github.com/ManibalaSinha/AppointmentTracker_FullStack)** – Full-stack pet appointment booking ([Live Demo](https://vercel.com/manibala-sinhas-projects-273c5a77/react-pet-appointment))
