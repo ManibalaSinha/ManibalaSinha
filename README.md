@@ -18,7 +18,7 @@
 ### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
 built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
 
-### [AI Caption API]()
+### [AI Caption API](https://github.com/ManibalaSinha/ai-api)
 Summarizes text & images using AI models
 Live: https://ai-api-6.onrender.com/caption
 
