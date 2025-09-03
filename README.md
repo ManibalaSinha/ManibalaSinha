@@ -22,6 +22,8 @@ built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Red
 Summarizes text & images using AI models
 Live: https://ai-api-6.onrender.com/caption
 
+### [FinDash] https://github.com/ManibalaSinha/FinDash
+
 ### [Ruby_AI_JS_QA](https://github.com/ManibalaSinha/Ruby_AI_JS_QA)
 
 Ruby_AI_JS_QA is a full-stack application designed to facilitate question-answering (QA) workflows using AI models. The project integrates Ruby on Rails for the backend, JavaScript for the frontend, and leverages AI services to process and respond to user queries.
