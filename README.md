@@ -1,7 +1,7 @@
 # Hi, I'm Manibala 
 
  **Full Stack Developer** | React, Node.js, Python, PostgreSQL, AWS  
- 10+ years experience delivering scalable web & mobile applications  
+ 10+ years experience building and supporting scalable web applications and backend services 
  [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
 
 ---
