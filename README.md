@@ -9,7 +9,7 @@
 ##  Tech Stack
 - **Backend:** Python, Node.js, Express, Flask, Django,REST APIs, JWT, OAuth2
 - **Frontend:** React, Javascript, Typescript, Next.js, Tailwind CSS, Bootstrap, Redux
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB, SQLite
 - **Tools:** Git, Docker, GCP, AWS, REST API, GraphQL
 
 ---
