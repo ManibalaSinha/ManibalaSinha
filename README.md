@@ -16,20 +16,12 @@
 ##  Featured Projects
 ### DataPipeline [https://github.com/ManibalaSinha/data_pipeline]
 
-### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
-built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
-
 ### [AI Caption API](https://github.com/ManibalaSinha/ai-api)
 Summarizes text & images using AI models
 Live: https://ai-api-6.onrender.com/caption
 
 ### [FinDash] https://github.com/ManibalaSinha/FinDash
 FinDash is a data-driven financial dashboard platform designed to provide real-time insights for investment and portfolio management. building enterprise-grade, grid-based UIs that handle large datasets, support multi-currency handling, dynamic pagination, telemetry logging, entitlement-based data
-
-### [Ruby_AI_JS_QA](https://github.com/ManibalaSinha/Ruby_AI_JS_QA)
-
-Ruby_AI_JS_QA is a full-stack application designed to facilitate question-answering (QA) workflows using AI models. The project integrates Ruby on Rails for the backend, JavaScript for the frontend, and leverages AI services to process and respond to user queries.
-Live Demo: https://manibalasinha.github.io/Ruby_AI_JS_QA/
 
 ### [Task Manager](https://github.com/ManibalaSinha/TaskManager)
 Full CRUD task app with authentication and responsive UI.  
@@ -53,6 +45,14 @@ Automated job scraper sending email alerts.
 ### [DevStations](https://github.com/ManibalaSinha/devstations)
 Collaboration platform for developers.  
 **Tech:** MERN Stack
+
+### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
+built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
+
+### [Ruby_AI_JS_QA](https://github.com/ManibalaSinha/Ruby_AI_JS_QA)
+
+Ruby_AI_JS_QA is a full-stack application designed to facilitate question-answering (QA) workflows using AI models. The project integrates Ruby on Rails for the backend, JavaScript for the frontend, and leverages AI services to process and respond to user queries.
+Live Demo: https://manibalasinha.github.io/Ruby_AI_JS_QA/
 
 * **[AI Caption API](https://ai-api-6.onrender.com/caption)** – Summarizes text & images using AI models
 * **[Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)** – Python automation to scrape, filter & email job listings
