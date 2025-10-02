@@ -1,16 +1,26 @@
 # Hi, I'm Manibala 
 
- **Full Stack Developer** | React, Node.js, Python, PostgreSQL, AWS  
- 10+ years experience building and supporting scalable web applications and backend services 
+ Full Stack & Automation Engineer | Java · Python · Selenium · API Testing · CI/CD  
+ 6+ years experience in QA + Backend Developer | Java, Python, Automation Frameworks, REST APIs 
  [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
 
 ---
 
-##  Tech Stack
-- **Backend:** Python, Node.js, Express, Flask, Django,REST APIs, JWT, OAuth2
-- **Frontend:** React, Javascript, Typescript, Next.js, Tailwind CSS, Bootstrap, Redux
-- **Databases:** PostgreSQL, MongoDB, SQLite
-- **Tools:** Git, Docker, GCP, AWS, REST API, GraphQL
+ Java Automation + Backend
+
+Selenium/TestNG/Cucumber framework
+
+REST Assured API testing
+
+Spring Boot/Microservice or utility project
+
+ Python Automation + Scripting
+
+PyTest/Playwright API/UI automation
+
+Python scripts for automation tasks
+
+Data or API integration scripts
 
 ---
 ##  Featured Projects
