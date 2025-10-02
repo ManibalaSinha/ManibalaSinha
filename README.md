@@ -1,7 +1,7 @@
 # Hi, I'm Manibala 
 
  Full Stack & Automation Engineer | Java · Python · Selenium · API Testing · CI/CD  
- 6+ years experience in QA + Backend Developer | Java, Python, Automation Frameworks, REST APIs 
+ 8+ years experience in QA + Backend Developer | Java, Python, Automation Frameworks, REST APIs 
  [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
 
 ---
