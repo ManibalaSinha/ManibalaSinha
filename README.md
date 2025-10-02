@@ -23,7 +23,7 @@ Python scripts for automation tasks
 Data or API integration scripts
 
 ---
-##  Featured Projects
+##  [Featured Projects](https://github.com/ManibalaSinha/java-microservices-kafka-automation)
 ### DataPipeline [https://github.com/ManibalaSinha/data_pipeline]
 
 ### [AI Caption API](https://github.com/ManibalaSinha/ai-api)
