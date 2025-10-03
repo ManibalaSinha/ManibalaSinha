@@ -23,9 +23,6 @@ FinDash is a data-driven financial dashboard platform designed to provide real-t
 Summarizes text & images using AI models
 Live: https://ai-api-6.onrender.com/caption
 
-### [FinDash] https://github.com/ManibalaSinha/FinDash
-FinDash is a data-driven financial dashboard platform designed to provide real-time insights for investment and portfolio management. building enterprise-grade, grid-based UIs that handle large datasets, support multi-currency handling, dynamic pagination, telemetry logging, entitlement-based data
-
 ### [Task Manager](https://github.com/ManibalaSinha/TaskManager)
 Full CRUD task app with authentication and responsive UI.  
 **Tech:** React, Node.js, Express, MongoDB  
