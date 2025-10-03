@@ -1,29 +1,19 @@
 # Hi, I'm Manibala 
 
- Full Stack & Automation Engineer | Java · Python · Selenium · API Testing · CI/CD  
- 8+ years experience in QA + Backend Developer | Java, Python, Automation Frameworks, REST APIs 
- [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
+I’m a Full Stack Developer with strong experience building scalable web applications using Java, Python, Angular, and React. Over the years, I’ve worked across both frontend and backend development, designing APIs, integrating databases, and delivering end-to-end features for enterprise and startup projects.
+
+I enjoy solving complex problems, improving performance, and writing clean, testable code. Whether it’s building RESTful services in Java/Python, developing interactive UIs in Angular/React, or working with SQL/NoSQL databases, I adapt quickly to project needs and deliver results.
+
+Core Skills:
+• Java | Python | JavaScript | TypeScript
+• Angular | React | HTML | CSS
+• REST APIs | Microservices | Spring Boot | Node.js
+• SQL | PostgreSQL | MongoDB
+• Git | Agile | CI/CD
+
+I’m actively looking for Full Stack, Backend, or Frontend developer roles (remote or onsite) where I can contribute immediately and grow with a strong engineering team.
 
 ---
-
- Java Automation + Backend
-
-Selenium/TestNG/Cucumber framework
-
-REST Assured API testing
-
-Spring Boot/Microservice or utility project
-
- Python Automation + Scripting
-
-PyTest/Playwright API/UI automation
-
-Python scripts for automation tasks
-
-Data or API integration scripts
-
----
-## java-microservices-kafka-automation (https://github.com/ManibalaSinha/java-microservices-kafka-automation)
 ### DataPipeline [https://github.com/ManibalaSinha/data_pipeline]
 
 ### [AI Caption API](https://github.com/ManibalaSinha/ai-api)
