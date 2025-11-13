@@ -14,7 +14,7 @@ Core Skills:
 I’m actively looking for Full Stack, Backend, or Frontend developer roles (remote or onsite) where I can contribute immediately and grow with a strong engineering team.
 
 ---
-### [DevStations](https://github.com/ManibalaSinha/devstations)
+### [DevStations](https://github.com/ManibalaSinha/devstations) Visit App: https://manibalasinha.github.io/devstations/
 Collaboration platform for developers.  
 **Tech:** MERN Stack
 
