@@ -22,7 +22,7 @@ Collaboration platform for developers.
 Summarizes text & images using AI models
 Live: https://ai-api-6.onrender.com/caption
 
-### [Task Manager](https://github.com/ManibalaSinha/TaskManager)
+### [Task Manager](https://github.com/ManibalaSinha/TaskManager) Visit App: https://vercel.com/manibala-sinhas-projects-273c5a77/react-api
 Full CRUD task app with authentication and responsive UI.  
 **Tech:** React, Node.js, Express, MongoDB  
  [Live Demo](https://taskmanager-demo-link.com)
