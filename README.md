@@ -15,33 +15,39 @@ I’m actively looking for Full Stack, Backend, or Frontend developer roles (rem
 
 ---
 ### [DevStations](https://github.com/ManibalaSinha/devstations) Visit App: https://manibalasinha.github.io/devstations/
-Collaboration platform for developers.  
-**Tech:** MERN Stack
+Tech Stack: Python, React, PostgreSQL / MongoDB, Auth, REST APIs, MERN
+Description: Collaboration platform for developers. Full-stack features with user authentication, database integration, and responsive frontend.
+Backend: https://devstations-5.onrender.com/ Running Live
 
-### [AI Caption API](https://github.com/ManibalaSinha/ai-api)
-Summarizes text & images using AI models
-Live: https://ai-api-6.onrender.com/caption
+### AI Image Captioning API (https://github.com/ManibalaSinha/ai-api)
+Tech Stack: Python, FastAPI, Hugging Face BLIP/CLIP models
+Description: POST endpoint that generates AI-based captions for uploaded images. Practical AI integration in a backend API. Summarizes text & images using AI models
+Live: https://ai-api-6.onrender.com/caption Running Live
 
 ### [Task Manager](https://github.com/ManibalaSinha/TaskManager) Visit App: https://vercel.com/manibala-sinhas-projects-273c5a77/react-api
-Full CRUD task app with authentication and responsive UI.  
-**Tech:** React, Node.js, Express, MongoDB  
- [Live Demo](https://taskmanager-demo-link.com)
+Tech Stack: React, Node.js, REST API, JWT auth, Express, MongoDB
+Description: Task manager app for team productivity. Full-stack React + Node.js app with API integration and state management. Full CRUD task app with authentication and responsive UI.  
+Frontend: https://vercel.com/manibala-sinhas-projects-273c5a77/react-api
+[Live Demo](https://taskmanager-demo-link.com)
+
+### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
+Tech Stack: Node.js, TypeScript, WebSockets, Redis, PostgreSQL, RabbitMQ, Async Jobs, JWT, Jest, Multer
+Description: Real-time scalable backend with pub/sub messaging, secure authentication, and async background jobs.
+Live: https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis
+
+### [Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)
+Tech Stack: Python, BeautifulSoup, Requests, SMTP, Cron
+Description: Automates scraping of job listings and delivers them via email. Filters relevance based on keywords.
+Live: https://github.com/ManibalaSinha/job-scraper-notifier
 
 ### [Django Portfolio](https://github.com/ManibalaSinha/django_portfolio)
 Personal portfolio site built with Django.  
 **Tech:** Python, Django, HTML/CSS
 
-### [Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)
-Automated job scraper sending email alerts.  
-**Tech:** Python, BeautifulSoup, SMTP
-
 ### [OpenAI] (https://github.com/ManibalaSinha/OpenAI/tree/feature_branch)
 OpenAI Assistants API:enables intelligent question-answering over custom document corpora, PDFs, text manuals, engineering files, simulating how field operators can query technical data in real time. Designed with scalable microservices principles, the system can be containerized with Docker.
 
 ### DataPipeline [https://github.com/ManibalaSinha/data_pipeline]
-
-### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
-built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
 
 ### [FinDash] https://github.com/ManibalaSinha/FinDash
 FinDash is a data-driven financial dashboard platform designed to provide real-time insights for investment and portfolio management. building enterprise-grade, grid-based UIs that handle large datasets, support multi-currency handling, dynamic pagination, telemetry logging, entitlement-based data
