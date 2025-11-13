@@ -36,6 +36,7 @@ Automated job scraper sending email alerts.
 **Tech:** Python, BeautifulSoup, SMTP
 
 ### [OpenAI] (https://github.com/ManibalaSinha/OpenAI/tree/feature_branch)
+OpenAI Assistants API:enables intelligent question-answering over custom document corpora, PDFs, text manuals, engineering files, simulating how field operators can query technical data in real time. Designed with scalable microservices principles, the system can be containerized with Docker.
 
 ### DataPipeline [https://github.com/ManibalaSinha/data_pipeline]
 
