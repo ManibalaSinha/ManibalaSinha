@@ -14,40 +14,38 @@ Core Skills:
 I’m actively looking for Full Stack, Backend, or Frontend developer roles (remote or onsite) where I can contribute immediately and grow with a strong engineering team.
 
 ---
-### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
-built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
+### [DevStations](https://github.com/ManibalaSinha/devstations)
+Collaboration platform for developers.  
+**Tech:** MERN Stack
 
-### [FinDash] https://github.com/ManibalaSinha/FinDash
-FinDash is a data-driven financial dashboard platform designed to provide real-time insights for investment and portfolio management. building enterprise-grade, grid-based UIs that handle large datasets, support multi-currency handling, dynamic pagination, telemetry logging, entitlement-based data
+### [AI Caption API](https://github.com/ManibalaSinha/ai-api)
+Summarizes text & images using AI models
+Live: https://ai-api-6.onrender.com/caption
 
 ### [Task Manager](https://github.com/ManibalaSinha/TaskManager)
 Full CRUD task app with authentication and responsive UI.  
 **Tech:** React, Node.js, Express, MongoDB  
  [Live Demo](https://taskmanager-demo-link.com)
 
----
-
 ### [Django Portfolio](https://github.com/ManibalaSinha/django_portfolio)
 Personal portfolio site built with Django.  
 **Tech:** Python, Django, HTML/CSS
-
-### DataPipeline [https://github.com/ManibalaSinha/data_pipeline]
-
-### [AI Caption API](https://github.com/ManibalaSinha/ai-api)
-Summarizes text & images using AI models
-Live: https://ai-api-6.onrender.com/caption
-
----
 
 ### [Job Scraper Notifier](https://github.com/ManibalaSinha/job-scraper-notifier)
 Automated job scraper sending email alerts.  
 **Tech:** Python, BeautifulSoup, SMTP
 
----
+### [OpenAI] (https://github.com/ManibalaSinha/OpenAI/tree/feature_branch)
 
-### [DevStations](https://github.com/ManibalaSinha/devstations)
-Collaboration platform for developers.  
-**Tech:** MERN Stack
+### DataPipeline [https://github.com/ManibalaSinha/data_pipeline]
+
+### [TypeScriptWebSocketsRedis](https://github.com/ManibalaSinha/TypeScriptWebScoketsRedis)
+built with TypeScript, WebSockets, Asyn Jobs, JWT, Jest, multer, Node.js and Redis
+
+### [FinDash] https://github.com/ManibalaSinha/FinDash
+FinDash is a data-driven financial dashboard platform designed to provide real-time insights for investment and portfolio management. building enterprise-grade, grid-based UIs that handle large datasets, support multi-currency handling, dynamic pagination, telemetry logging, entitlement-based data
+
+---
 
 ### [Ruby_AI_JS_QA](https://github.com/ManibalaSinha/Ruby_AI_JS_QA)
 
