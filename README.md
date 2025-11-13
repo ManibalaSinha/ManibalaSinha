@@ -1,6 +1,6 @@
 # Hi, I'm Manibala 
 
-I’m a Full Stack Developer with strong experience building scalable web applications using Node.js, Python + Automation, Angular, and React. Over the years, I’ve worked across both frontend and backend development, designing APIs, integrating databases, and delivering end-to-end features for enterprise and startup projects.
+I’m a Full Stack Developer with strong experience building scalable web applications using Node.js, Python + Automation AI work flow, Angular, and React. Over the years, I’ve worked across both frontend and backend development, designing APIs, integrating databases, and delivering end-to-end features for enterprise and startup projects.
 
 I enjoy solving complex problems, improving performance, and writing clean, testable code. Whether it’s building RESTful services in Java/Python, developing interactive UIs in Angular/React, or working with SQL/NoSQL databases, I adapt quickly to project needs and deliver results.
 
