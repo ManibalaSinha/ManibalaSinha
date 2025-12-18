@@ -14,7 +14,9 @@ Core Skills:
 I’m actively looking for Full Stack, Backend, or Frontend developer roles (remote or onsite) where I can contribute immediately and grow with a strong engineering team.
 
 ---
-### [DevStations](https://github.com/ManibalaSinha/devstations) Visit App: https://manibalasinha.github.io/devstations/
+### [DevStations] https://8080-cs-4fb40e46-3c0d-4367-b233-2522dd7f61ca.cs-us-east1-yeah.cloudshell.dev/
+Tech: Cloud Run, Docker, Artifact Registry, IAM, gcloud CLI
+(https://github.com/ManibalaSinha/devstations) Visit App: https://manibalasinha.github.io/devstations/
 Tech Stack: Python, React, PostgreSQL / MongoDB, Auth, REST APIs, MERN
 Description: Collaboration platform for developers. Full-stack features with user authentication, database integration, and responsive frontend.
 Backend: https://devstations-5.onrender.com/ Running Live
