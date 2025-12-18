@@ -14,7 +14,7 @@ Core Skills:
 I’m actively looking for Full Stack, Backend, or Frontend developer roles (remote or onsite) where I can contribute immediately and grow with a strong engineering team.
 
 ---
-### [DevStations] GCP: https://8080-cs-4fb40e46-3c0d-4367-b233-2522dd7f61ca.cs-us-east1-yeah.cloudshell.dev/
+### [DevStations] GCP: Service URL: https://devstations-server-6351281086.us-central1.run.app
 Tech: Cloud Run, Docker, Artifact Registry, IAM, gcloud CLI
 (https://github.com/ManibalaSinha/devstations) Visit App: https://manibalasinha.github.io/devstations/
 Tech Stack: Python, React, PostgreSQL / MongoDB, Auth, REST APIs, MERN
