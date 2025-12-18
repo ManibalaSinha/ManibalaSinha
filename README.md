@@ -10,6 +10,8 @@ Core Skills:
 • REST APIs | Microservices | Spring Boot | Node.js
 • SQL | PostgreSQL | MongoDB
 • Git | Agile | CI/CD
+• Cloud Run, Docker, Artifact Registry, IAM, gcloud CLI
+
 
 I’m actively looking for Full Stack, Backend, or Frontend developer roles (remote or onsite) where I can contribute immediately and grow with a strong engineering team.
 
