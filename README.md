@@ -21,6 +21,11 @@ Tech Stack: Python, React, PostgreSQL / MongoDB, Auth, REST APIs, MERN
 Description: Collaboration platform for developers. Full-stack features with user authentication, database integration, and responsive frontend.
 Backend: https://devstations-5.onrender.com/ Running Live
 
+### [Management] https://github.com/ManibalaSinha/Management
+Tech: Cloud Run, Docker, Artifact Registry, IAM, gcloud CLI, REACT, Typescript, Python,FastAPI, PostgresSQL
+Description: A full-stack Lead Management System designed for sales teams to track, organize, and manage customer leads efficiently. Built with a React frontend, FastAPI backend, and PostgreSQL database, this application supports complete CRUD operations, authentication, and role-based access
+Live: https://github.com/ManibalaSinha/Management
+
 ### AI Image Captioning API (https://github.com/ManibalaSinha/ai-api)
 Tech Stack: Python, FastAPI, Hugging Face BLIP/CLIP models
 Description: POST endpoint that generates AI-based captions for uploaded images. Practical AI integration in a backend API. Summarizes text & images using AI models
