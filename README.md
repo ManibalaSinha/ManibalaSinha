@@ -5,12 +5,13 @@ I’m a Full Stack Developer with strong experience building scalable web applic
 I enjoy solving complex problems, improving performance, and writing clean, testable code. Whether it’s building RESTful services in Java/Python, developing interactive UIs in Angular/React, or working with SQL/NoSQL databases, I adapt quickly to project needs and deliver results.
 
 Core Skills:
-• Node.js | Python | JavaScript | TypeScript
+• Node.js | Python | JavaScript | TypeScript | Java
 • Angular | React | HTML | CSS
 • REST APIs | Microservices | Spring Boot | Node.js
 • SQL | PostgreSQL | MongoDB
 • Git | Agile | CI/CD
 • Cloud Run, Docker, Artifact Registry, IAM, gcloud CLI
+Frontend: Angular (Components, Services, Routing, Reactive Forms, RxJS, HttpClient), HTML5, CSS3, TypeScript
 
 
 I’m actively looking for Full Stack, Backend, or Frontend developer roles (remote or onsite) where I can contribute immediately and grow with a strong engineering team.
