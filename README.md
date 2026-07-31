@@ -124,6 +124,7 @@ Live Demo: https://manibalasinha.github.io/Ruby_AI_JS_QA/
 - https://node-express-g524kcezh-manibala-sinhas-projects-273c5a77.vercel.app/
 -  https://manibalasinha.github.io/ShapeLearn_Flutter/ Learning Shgapes and Colors for Toddlers
 - [ Python Interview Prep](https://github.com/ManibalaSinha/Python-Interview) – Core Python questions with examples
+- https://github.com/ManibalaSinha/angular/tree/master
 
 
 ##  Fun Fact
